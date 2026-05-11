@@ -19,7 +19,6 @@ Sigue estos pasos para correr el proyecto en tu computadora:
 1. **Clonar o descargar** este repositorio.
 2. Abrir una terminal en la carpeta del proyecto.
 3. Instalar las dependencias necesarias ejecutando:
-   ```bash
   npm install
 4. Iniciar el servidor con el comando:
 node server.js
